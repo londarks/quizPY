@@ -9,11 +9,11 @@
 </p>
 
 <h1 align="center">
-  <img src="images/page1.png"/>
+  <img src="images/pag1.png"/>
 </h1>
 
 <h1 align="center">
-  <img src="images/page2.png"/>
+  <img src="images/pag2.png"/>
 </h1>
 
 ### Requisitos
