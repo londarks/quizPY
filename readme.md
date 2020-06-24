@@ -1,7 +1,6 @@
 # Quiz
 
 <p align="center">Project: Jam Quiz feito em Pyqt5</p>
-<p align="center">Bot for Drrr.com</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
