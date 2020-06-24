@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<h1 align="center">
+  <img src="images/page1.png"/>
+</h1>
+
+<h1 align="center">
+  <img src="images/page2.png"/>
+</h1>
 
 ### Requisitos
 1. Python 3.7 ++
