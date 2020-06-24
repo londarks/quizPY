@@ -1,6 +1,6 @@
 # Quiz
 
-<p align="center">Project: Jam Quiz feito em Pyqt5</p>
+<p align="center">Quiz feito em Pyqt5</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -18,8 +18,8 @@
 3. Rode o quiz com  ``` python app.py ```
 
 
-## Implementado:
+## Descrição:
 feito para uma Game jam do servidor dos Javalinos - [Discord](https://discord.gg/rySNJcJ)
 
 ## Autor
-- **Londarks** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/londarks)
+- **Londarks** - _Developer_ - [Twitter](https://twitter.com/londarks)
